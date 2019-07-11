@@ -1,1 +1,1 @@
-export default () => '/implicit';
+export default () => '/foo';
